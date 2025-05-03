@@ -1,13 +1,19 @@
-# heart_disease_ml_model
-The Heart Disease ML Model is designed to predict the likelihood of heart disease based on patient health data. Using machine learning algorithms and structured feature engineering, the model helps in identifying risk factors and assisting in early diagnosis. 
+# Heart Disease Prediction with Machine Learning
 
-# Heart Disease Prediction Model
+This project uses a **Random Forest Classifier** to predict the presence of heart disease using medical data.
 
-This project uses a Random Forest classifier to predict the presence of heart disease based on medical features.
+##  Project Highlights
+- Preprocessing and feature selection
+- Model training with GridSearchCV (hyperparameter tuning)
+- Evaluation and classification metrics
+- Final model saved as `.pkl` and ready for deployment
 
-## Files
-- `Heart_disease.ipynb`: The full model training and evaluation notebook
-- `heart_disease_ML.pkl`: The trained model saved using `joblib`
+##  Files in this Repository
+- `Heart_disease.ipynb`: Jupyter Notebook with full training and explanation
+- `heart_disease_ML.pkl`: Trained model saved using `joblib`
+- `requirements.txt`: All required Python libraries
 
-## Usage
-Clone the repo and load the `.pkl` model to make predictions on new data.
+##  How to Use
+1. Clone the repo:
+```bash
+git clone https://github.com/YOUR_USERNAME/heart_disease_ml_model.git
