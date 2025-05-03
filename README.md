@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/FaisalTahair/heart_disease_ml_model/blob/main/Heart_disease.ipynb)
+
+
 # Heart Disease Prediction with Machine Learning
 
 This project uses a **Random Forest Classifier** to predict the presence of heart disease using medical data.
